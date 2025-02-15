@@ -30,6 +30,11 @@ ul {
 	overflow: auto;
 	top: 64px;
 }
+.navtitle {
+	text-align: center;
+	font-size: large;
+	font-weight: bold;
+}
 .navlink {
 	text-align: center;
 	font-size: large;
@@ -47,6 +52,10 @@ ul {
 }
 .project {
 	font-size: larger;
+}
+.sectiontitle {
+	font-size: x-large;
+	font-weight: bold;
 }
 a:link, a:visited, a:active, a:hover {
 	color: rgb(0, 0, 0);
